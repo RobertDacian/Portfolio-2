@@ -248,7 +248,11 @@
 
 @media screen and (max-width: 450px) {
   .home__img {
-    display: none;
+    /* display: none; */
+    width: 200px;
+    height: 200px;
+
+    box-shadow: 0 0 8px hsla(0, 0%, 0%, 0.5);
   }
 
   .home__content {
