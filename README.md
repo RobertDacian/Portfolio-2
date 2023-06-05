@@ -6,7 +6,7 @@ This project is a personal portfolio and emphasizes some of the projects I've do
 
 ## Description
 
-The portfolio includes all the major projects from the first and second year of school at Noroff. The project is built using the tools and skills I've learned throughout the school period.
+The portfolio includes all the major projects from the first and second year of school. The portfolio project is built using React JS.
 
 ## Built With
 
