@@ -13,6 +13,7 @@ The portfolio includes all the major projects from the first and second year of 
 Tools and techniques used in the project:
 
 - React JS
+- Vite
 
 **Project Links**
 
