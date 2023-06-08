@@ -35,7 +35,7 @@ const Contact = () => {
               <FaEnvelopeOpen className='info__icon' />
 
               <div>
-                <span className='info__title'>Mail me</span>
+                <span className='info__title'>E-mail</span>
                 <h4 className='info__desc'>paxdacian@icloud.com</h4>
               </div>
             </div>
@@ -44,7 +44,7 @@ const Contact = () => {
               <FaPhoneSquareAlt className='info__icon' />
 
               <div>
-                <span className='info__title'>Call me</span>
+                <span className='info__title'>Phone</span>
                 <h4 className='info__desc'>+55 (84) 99976-9744</h4>
               </div>
             </div>
